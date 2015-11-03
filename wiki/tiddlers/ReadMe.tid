@@ -10,13 +10,8 @@ type: text/vnd.tiddlywiki
 Bonjour de la version perso fork
 
 Lien vers mon premier tiddler 
-MyFirstTiddler
+[[PremierTiddler]]
 
-
-[[MyFirstTiddler]]
-
-
-{{MyFirstTiddler}}
 
 
 Ajout d'un deuxième tiddler. 
